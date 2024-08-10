@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@maccodedev23266/30-nites-of-code)  
+  ![@maccodedev23266 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=maccodedev23266)
+
 <!--
 **MacCodeDev/MacCodeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
