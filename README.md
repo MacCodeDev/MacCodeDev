@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenV5NXhhcnNhMGh1MnIxZXdmMWl1anJhb3k0ZWxnZjhrMGFiMDI1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/giKklFontfveZrNXjz/giphy.gif" width="250"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenV5NXhhcnNhMGh1MnIxZXdmMWl1anJhb3k0ZWxnZjhrMGFiMDI1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/giKklFontfveZrNXjz/giphy.gif" width="350"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/maciej-jarmula?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
