@@ -4,7 +4,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenV5NXhhcnNhMGh1MnIxZXdmMWl1anJhb3k0ZWxnZjhrMGFiMDI1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/giKklFontfveZrNXjz/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/maciej-jarmula?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
