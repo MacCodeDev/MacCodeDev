@@ -1,9 +1,19 @@
 ## Hi there 👋
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@maccodedev23266/30-nites-of-code)  
-  ![@maccodedev23266 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=maccodedev23266)
-
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenV5NXhhcnNhMGh1MnIxZXdmMWl1anJhb3k0ZWxnZjhrMGFiMDI1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/giKklFontfveZrNXjz/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 <!--
 **MacCodeDev/MacCodeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
